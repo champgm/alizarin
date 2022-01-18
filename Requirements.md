@@ -1,10 +1,39 @@
-Levels of Access
-Kindred - can view lists, submit event report, submit hunt report, reset login password/email.
+# Levels of Access
 
-Senate - ability to add kindred to db as ALT character (and select only base affiliation), ability to verify hunt report, ability to verify event report
+## Kindred
+ * View lists
+ * Submit event report
+ * Submit hunt report
+ * Reset login password/email
 
-High Council - ability to add kindred to db as MAIN character (and select only base affiliation), ability to enter and accept donations, ability to grant special titles
+## Senate
+ * Add kindred to db as ALT character
+   * Can select only base affiliation
+ * Verify hunt report
+ * Verify event report
 
-Triumvirate - ability to promote to Senate/High Council roles. Ability to inactivate characters from the db, ability to modify character affiliations (and can select ALL affiliations), ability to add new affiliation to table, ability to add/modify/remove affiliation titles to table, ability to see main character to alt character relationship, Ability to create DB access for others (no role default), Ability to revoke database access entirely.
+# High Council
+ * Add kindred to db as MAIN character
+   * Can select only base affiliation
+ * Enter and accept donations 
+ * Grant special titles
 
-Primogen - ability to promote to Triumvirate/Primogen roles. ability to modify main character to alt character relationship, ability to add points to a single character, ability to reactivate characters in the db, Ability to remove roles from DB access accounts, generate Monthly Tribute report for Kru, generate Monthly Event report for Kru.
+# Triumvirate
+ * Promote to Senate/High Council roles 
+ * Inactivate characters from the db 
+ * Modify character affiliations
+   * Can select all affiliation
+ * Add new affiliation to table 
+ * Add/modify/remove affiliation titles to table 
+ * See main character to alt character relationship 
+ * Create DB access for others (no role default) 
+ * Revoke database access entirely
+
+# Primogen
+ * Promote to Triumvirate/Primogen roles 
+ * Modify main character to alt character relationship 
+ * Add points to a single character 
+ * Reactivate characters in the db 
+ * Remove roles from DB access accounts
+ * Generate Monthly Tribute report for Kru
+ * Generate Monthly Event report for Kru
